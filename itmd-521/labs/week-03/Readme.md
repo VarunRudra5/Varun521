@@ -40,21 +40,15 @@ You are to take the sample code listed in Chapter 02, the MnMCount for both Pyth
 Make sure the `vagrant@your-initials` is in the screenshot
 
 ### PySpark ScreenShot
+<img width="818" alt="Varun_pyspark" src="https://github.com/VarunRudra5/Varun521/assets/84677948/62fab328-5a1d-440c-9d38-81f34e30e0ee">
 
-Place PySpark screenshot here
+
 
 ### SBT build Output Screenshot
 
-Place screenshot here
+<img width="794" alt="varun_sbt build" src="https://github.com/VarunRudra5/Varun521/assets/84677948/65094c76-7751-4548-b45d-6d41afc531fa">
+
+
 
 ### Spark Scala ScreenShot
-
-Place Scala screenshot here
-
-## Deliverables
-
-Using this template, under the `itmd-521` directory in your local repository, create a sub-directory named `labs`. Under that create another subdirectory named `week-03` and place this Readme.md file in that directory along with a folder for images.
-
-You also need to include your python and scala code and the `build.sbt` file. Push the code to your remote GitHub repo and submit the URL to this location in Blackboard.
-
-Do not push any data files into your GitHub repo
+<img width="851" alt="vamsi_spark scala" src="https://github.com/VarunRudra5/Varun521/assets/84677948/a082177f-0701-49e3-8a97-8c74285a5c64">
